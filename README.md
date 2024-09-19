@@ -6,7 +6,7 @@ https://www.loom.com/share/f56a7d88ab954d1f970fed8da3c2e710
 # Navigation Bar
 https://www.loom.com/share/0d208ccbd9ca4b1d9fcad45dc5871d6e 
 
-# Sign Up & Login
+# Register & Login
 https://www.loom.com/share/3135f002458942a2af53510130bea9d8 
 
 # Adding to Cart and Payment

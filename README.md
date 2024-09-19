@@ -1,7 +1,7 @@
 # E-commerce_app
 
 ## Home Page
-https://www.loom.com/share/f56a7d88ab954d1f970fed8da3c2e710         sdSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSss
+https://www.loom.com/share/f56a7d88ab954d1f970fed8da3c2e710 
 ____________________________________________________________
 
 # Navigation Bar
